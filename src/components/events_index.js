@@ -36,7 +36,7 @@ class EventsIndex extends Component {
    position: 'fixed',
    right: '12px',
    bottom: '12px',
-   'z-index': 100,
+   zIndex: 100,
   };
   return (
    <React.Fragment>
